@@ -1,10 +1,7 @@
 # HelloWorld
 Topics Covered
 
-=> Display HelloWorld using Block, Template and Layout file.
-
-=> Working with Model and Collection.
-
-=> NoRoute handler.
-
-=> Custom Route.
+<li> Display HelloWorld using Block, Template and Layout file.
+<li> Working with Model and Collection.
+<li> NoRoute handler.
+<li> Custom Route.
