@@ -1,9 +1,6 @@
 <?php
 namespace Monish\HelloWorld\Controller;
 
-/**
- * Aureatelabs Custom router Controller Router
- */
 class Router implements \Magento\Framework\App\RouterInterface
 {
     /**
