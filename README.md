@@ -1,9 +1,12 @@
 # HelloWorld
 Topics Covered
 
-<li> Display HelloWorld using Block, Template and Layout file.
-<li> Working with Model and Collection.
-<li> NoRoute handler.
-<li> Custom Route.
- 
-  {{storefront-url}}/helloworld, on this url helloworld needs to display
+<pre>
+  <li> Display HelloWorld using Block, Template and Layout file.
+       {{storefront-url}}/helloworld
+  <li> Working with Model and Collection.
+  <li> NoRoute handler.
+  <li> Custom Route need to able access same page.
+       {{storefront-url}}/monishhelloword
+</pre>
+  
